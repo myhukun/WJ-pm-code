@@ -1,111 +1,114 @@
-<mxfile host="app.diagrams.net" modified="2020-06-05T06:27:40.829Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="0k0iOBci6-14nXXBZ4YB" version="13.1.14" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-05T06:28:13.853Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="2XQy7O7e4SqMrQ3a12YA" version="13.1.14" type="github">
   <diagram id="atfw4yTlGEC_8IFpaKJd" name="Page-1">
-    <mxGraphModel dx="677" dy="363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1arrUORrPNozQ6z-2xyQ-1" value="&lt;font style=&quot;font-size: 21px&quot;&gt;开始&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1arrUORrPNozQ6z-2xyQ-3" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="1arrUORrPNozQ6z-2xyQ-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="190" as="sourcePoint" />
-            <mxPoint x="440" y="370" as="targetPoint" />
+            <mxPoint x="350" y="190" as="sourcePoint" />
+            <mxPoint x="390" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1arrUORrPNozQ6z-2xyQ-4" value="邀请方分享&lt;br&gt;【邀请有礼】" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1arrUORrPNozQ6z-2xyQ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1arrUORrPNozQ6z-2xyQ-5" target="1arrUORrPNozQ6z-2xyQ-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1arrUORrPNozQ6z-2xyQ-5" value="邀请方展示/发送邀请码" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PQ6SdiA9I7aiqTy9rIvU-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1arrUORrPNozQ6z-2xyQ-5">
+          <mxGeometry x="58" y="24" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1arrUORrPNozQ6z-2xyQ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1arrUORrPNozQ6z-2xyQ-6" target="1arrUORrPNozQ6z-2xyQ-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1arrUORrPNozQ6z-2xyQ-6" value="被邀请发个在APP注册并填写邀请码" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1arrUORrPNozQ6z-2xyQ-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1arrUORrPNozQ6z-2xyQ-21" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="540" as="targetPoint" />
+            <mxPoint x="350" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1arrUORrPNozQ6z-2xyQ-15" value="被邀请方第一次登陆APP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1arrUORrPNozQ6z-2xyQ-8" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="1arrUORrPNozQ6z-2xyQ-4" target="1arrUORrPNozQ6z-2xyQ-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="420" as="sourcePoint" />
-            <mxPoint x="440" y="370" as="targetPoint" />
+            <mxPoint x="340" y="420" as="sourcePoint" />
+            <mxPoint x="390" y="370" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="400" y="190" />
+              <mxPoint x="350" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="1arrUORrPNozQ6z-2xyQ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="1arrUORrPNozQ6z-2xyQ-10" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="220" as="sourcePoint" />
+            <mxPoint x="130" y="220" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1arrUORrPNozQ6z-2xyQ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1arrUORrPNozQ6z-2xyQ-10" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="400" as="targetPoint" />
+            <mxPoint x="350" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1arrUORrPNozQ6z-2xyQ-10" value="被邀请方打开H5注册（默认带上邀请码））" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1arrUORrPNozQ6z-2xyQ-23" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1arrUORrPNozQ6z-2xyQ-21" target="1arrUORrPNozQ6z-2xyQ-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PQ6SdiA9I7aiqTy9rIvU-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1arrUORrPNozQ6z-2xyQ-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="640" as="targetPoint" />
+            <mxPoint x="510" y="640" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="560" y="640" />
-              <mxPoint x="560" y="640" />
+              <mxPoint x="510" y="640" />
+              <mxPoint x="510" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PQ6SdiA9I7aiqTy9rIvU-9" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1arrUORrPNozQ6z-2xyQ-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="545" as="targetPoint" />
+            <mxPoint x="640" y="545" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1arrUORrPNozQ6z-2xyQ-22" value="被邀请人是否在房间" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="505" width="80" height="80" as="geometry" />
+          <mxGeometry x="470" y="505" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1arrUORrPNozQ6z-2xyQ-26" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1arrUORrPNozQ6z-2xyQ-21" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="640" as="targetPoint" />
+            <mxPoint x="350" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1arrUORrPNozQ6z-2xyQ-21" value="邀请码是否有配置推荐" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="505" width="80" height="80" as="geometry" />
+          <mxGeometry x="310" y="505" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1arrUORrPNozQ6z-2xyQ-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1arrUORrPNozQ6z-2xyQ-15" target="1arrUORrPNozQ6z-2xyQ-21" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="460" as="sourcePoint" />
-            <mxPoint x="400" y="540" as="targetPoint" />
+            <mxPoint x="350" y="460" as="sourcePoint" />
+            <mxPoint x="350" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PQ6SdiA9I7aiqTy9rIvU-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1arrUORrPNozQ6z-2xyQ-27" target="PQ6SdiA9I7aiqTy9rIvU-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1arrUORrPNozQ6z-2xyQ-27" value="1.直接进入当前后台推荐的房间&lt;br&gt;2.自动关注推荐的陪陪&lt;br&gt;3.自动收藏推荐的房间" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PQ6SdiA9I7aiqTy9rIvU-1" value="推荐的陪陪自动发送打招呼消息给被邀请人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PQ6SdiA9I7aiqTy9rIvU-7" value="1.直接进入【邀请人】当前所在的房间&lt;br&gt;2.自动与邀请人互关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PQ6SdiA9I7aiqTy9rIvU-12" value="1.按照普通流程进入首页&lt;br&gt;2.自动与被邀请人互关" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="515" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="515" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
