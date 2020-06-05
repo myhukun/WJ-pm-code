@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-05T06:28:13.853Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="2XQy7O7e4SqMrQ3a12YA" version="13.1.14" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-05T06:38:44.671Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="6El_CEcj6_4F3peS5YWt" version="13.1.14" type="github">
   <diagram id="atfw4yTlGEC_8IFpaKJd" name="Page-1">
-    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,10 +98,10 @@
         <mxCell id="PQ6SdiA9I7aiqTy9rIvU-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1arrUORrPNozQ6z-2xyQ-27" target="PQ6SdiA9I7aiqTy9rIvU-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1arrUORrPNozQ6z-2xyQ-27" value="1.直接进入当前后台推荐的房间&lt;br&gt;2.自动关注推荐的陪陪&lt;br&gt;3.自动收藏推荐的房间" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="1arrUORrPNozQ6z-2xyQ-27" value="1.直接进入当前后台推荐的房间&lt;br&gt;2.自动关注推荐的模&lt;br&gt;3.自动收藏推荐的房间" style="rounded=0;whiteSpace=wrap;html=1;imageAlign=right;" parent="1" vertex="1">
           <mxGeometry x="290" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PQ6SdiA9I7aiqTy9rIvU-1" value="推荐的陪陪自动发送打招呼消息给被邀请人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PQ6SdiA9I7aiqTy9rIvU-1" value="推荐的模自动发送打招呼消息给被邀请人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PQ6SdiA9I7aiqTy9rIvU-7" value="1.直接进入【邀请人】当前所在的房间&lt;br&gt;2.自动与邀请人互关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
